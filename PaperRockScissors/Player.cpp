@@ -11,7 +11,7 @@ Player::Player(string name)
 
 string Player::getPlayerName() const
 {
-    return this->playerName + "test";
+    return this->playerName + "somthing else";
 }
 
 void Player::setPlayerChoice(int choice)
